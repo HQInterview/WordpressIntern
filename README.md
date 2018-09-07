@@ -1,10 +1,12 @@
 # Wordpress Internship Assignment
 
 **Goal:**
+
 To implement the design as a working WordPress template
 
 **Description:**
-Implement the 'mexico.png' design as a WordPress template. The goal is to see if you are comfortable learning front-end technics, especially in WordPress.
+
+Implement the 'mexico.png' design as a WordPress template. The goal is to see if you are comfortable in learning front-end techniques, especially in WordPress.
 
 **Requirements:**
 - Making the template responsive is required.
